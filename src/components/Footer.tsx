@@ -20,21 +20,21 @@ const Footer = () => {
             </p>
             <div className="flex items-center space-x-4">
               <a
-                href="#"
+                href="https://github.com/YegonGodwin/"
                 className="text-white/60 hover:text-white transition-colors"
               >
                 <Github className="w-5 h-5" />
                 <span className="sr-only">GitHub</span>
               </a>
               <a
-                href="#"
+                href="https://twitter.com/FlynnGoodie/"
                 className="text-white/60 hover:text-white transition-colors"
               >
                 <Twitter className="w-5 h-5" />
                 <span className="sr-only">Twitter</span>
               </a>
               <a
-                href="#"
+                href="https://www.linkedin.com/in/godwinkibet/"
                 className="text-white/60 hover:text-white transition-colors"
               >
                 <Linkedin className="w-5 h-5" />
